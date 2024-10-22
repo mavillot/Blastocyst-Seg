@@ -4,7 +4,7 @@ This project focuses on segmenting blastocyst images and extracting the exact mo
 
 ## 📦 Repository Contents
 In the repository, you can find the following files and directories:
-
+```bash
 ├──Blastocyst-Seg/
 ├──────Notebooks/
 |       ├── Image_Process_ZP.ipynb
@@ -26,6 +26,7 @@ In the repository, you can find the following files and directories:
 ├────── blasto_moment.py
 ├────── img.png
 └────── video.mp4
+```
 
 ## 💻 Getting Started
 To get started with this project, follow these steps::
