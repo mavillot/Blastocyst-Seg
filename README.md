@@ -1,10 +1,28 @@
 # 🌟 Blastocyst Segmentation 🌟
 
-Welcome to my cute project! This project focuses on segmenting blastocyst images using deep learning models. 🐾
+This project focuses on segmenting blastocyst images and extracting the exact moment of the blastocyst formation from a video using deep learning models. 🐾
 
 ## 📦 Repository Contents
 In the repository, you can find the following files and directories:
-|--- **Notebooks**
+
+``` bash
+- Notebooks
+  - Image_Process_ZP.ipynb
+  - Image_Process_TE&ICM.ipynb
+  - Harun_unet_TE.ipynb
+  - Harun_unet_ICM.ipynb
+  - Unet.ipynb
+  - HRnet.ipynb
+  - Deeplab-resnet50.ipynb
+  
+- experiments
+  - kfold_consistency.py
+  - kfold_consistency_Harun.py
+  - kfold_dataset.py
+    
+- utils
+  - 
+-  **Notebooks**
 - |---
 - **experiments**
 - **utils**
@@ -13,3 +31,4 @@ In the repository, you can find the following files and directories:
 - segmentation.py
 - img.png
 - video.mp4
+```
