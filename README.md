@@ -25,6 +25,7 @@ In the repository, you can find the following files and directories:
 ├────── segmentation.py
 ├────── blasto_moment.py
 ├────── img.png
+├────── prediction.png
 └────── video.mp4
 ```
 
@@ -36,4 +37,27 @@ To get started with this project, follow these steps::
 2. **Navigate to the project directory:**
    ```bash
    cd Blastocyst-Seg
-3. **Install the virtual environment with the required dependencies:**   
+3. **Install the virtual environment with the required dependencies:**
+   ```bash
+   pip install -r requirements_torch.txt
+   ```
+   Only for the replicated Harun encoder:
+   ```bash
+   pip install -r requirements_tensorflow.txt
+   ```
+## 💻 Usage Instructions
+Now that everything is set, we can start segmenting our blastocysts or extracting the blastocyst moment!!
+- **Segmentation of a blastocyst image:**
+  For segmenting a blastocyst image you will need an image. In the case you don't have any, I provide you of an image: *img.png*.
+  Then run the following:
+  ```bash
+   python segmentation.py path_img path_weights
+   ```
+   path_img: path of the image you want to segment.
+   path_weights: path of the weights of the model.
+   This script will generate an image: *prediction.png* with the mask segmenting the blastocyst structures: ZP, TE, ICM.
+- **Extracting the exact moment of the blastocyst formation:**
+  ```bash
+   python blasto_moment.py path_video path_weights
+   ```
+
