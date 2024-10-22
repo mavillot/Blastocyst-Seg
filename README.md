@@ -1,5 +1,14 @@
-# Blastocyst-Seg
-Segmentation of blastocyst structures
+# 🌟 Blastocyst Segmentation 🌟
 
-In "Unsupervised" directory, all notebooks related with the identification of the structures using image processing techniques can be found.
-In "Supervised" directory, 
+Welcome to my cute project! This project focuses on segmenting blastocyst images using deep learning models. 🐾
+
+## 📦 Repository Contents
+In the repository, you can find the following files and directories:
+- Notebooks
+- experiments
+- utils
+- requirements_torch.txt
+- requirements_tensorflow.txt
+- segmentation.py
+- img.png
+- video.mp4
