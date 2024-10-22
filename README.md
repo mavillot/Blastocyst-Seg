@@ -4,7 +4,8 @@ Welcome to my cute project! This project focuses on segmenting blastocyst images
 
 ## 📦 Repository Contents
 In the repository, you can find the following files and directories:
-- **Notebooks**
+|--- **Notebooks**
+- |---
 - **experiments**
 - **utils**
 - requirements_torch.txt
