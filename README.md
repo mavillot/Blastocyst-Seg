@@ -13,7 +13,7 @@ In the repository, you can find the following files and directories:
 |       ├── Harun_unet_ICM.ipynb
 |       ├── Unet.ipynb
 |       ├── HRnet.ipynb
-|       └─── Deeplab-resnet50.ipynb
+|       └── Deeplab-resnet50.ipynb
 ├────── experiments/
 |       ├── kfold_consistency.py
 |       ├── kfold_consistency_Harun.py
