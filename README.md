@@ -5,11 +5,12 @@ This project focuses on segmenting blastocyst images and extracting the exact mo
 ## 📂 Table of Contents
 In the repository, you can find the following files and directories:
 
-- [Installation](#installation)
+- [Getting Started](#installation)
 - [Usage](#usage)
 - [Tutorials](#tutorials)
+- [Checkpoints](#Checkpoints)
 - [Cite This Work](#cite-this-work)
-
+- [Papers](#cite-this-work)
 
 ## 🎯 Getting Started
 To get started with this project, follow these steps::
@@ -48,6 +49,12 @@ In the `Notebooks` directory, you’ll find detailed Jupyter notebooks that expl
 2. **Test and evaluate the Results**: Insights and metrics for analyzing model predictions, with visualizations and examples.
 3. **Inference**: Guidelines on how to use the model with an image for predictions.
 Each notebook is designed to help you reproduce each method and understand the workflow from data preparation to final evaluation. Just navigate to `Notebooks/` and open the corresponding notebook to get started!
+
+## Checkpoints
+- [Hrnet](https://github.com/mavillot/Blastocyst-Seg/releases/download/hrnet/hrnet.pth)
+- [Unet](https://github.com/mavillot/Blastocyst-Seg/releases/download/unet/unet.pth)
+- [Deeplab](https://github.com/mavillot/Blastocyst-Seg/releases/download/deeplab/deeplab.pth)
+- Harun - Unet: [TE](https://github.com/mavillot/Blastocyst-Seg/releases/download/harun_TE/unet_TE.zip), [ICM](https://github.com/mavillot/Blastocyst-Seg/releases/download/harun_ICM/unet_ICM.zip)
 
 ## 📖 Cite this work
 ```bibtex
