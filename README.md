@@ -5,7 +5,7 @@ This project focuses on segmenting blastocyst images and extracting the exact mo
 ## 📂 Table of Contents
 In the repository, you can find the following files and directories:
 
-- [Getting Started](#installation)
+- [Getting Started](## 🎯 Getting Started)
 - [Usage](#usage)
 - [Tutorials](#tutorials)
 - [Checkpoints](#Checkpoints)
