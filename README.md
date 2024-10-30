@@ -69,5 +69,5 @@ Each notebook is designed to help you reproduce each method and understand the w
 
 ## 📫 Contact
 Feel free to reach out if you have any questions!
-- Email: [mvillota@iisaragon.es]
+- Email: [mvillota@iisaragon.es](mvillota@iisaragon.es)
 - GitHub: [mavillot](https://github.com/mavillot)
