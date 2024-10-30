@@ -76,7 +76,7 @@ pages={213-222}}
 ```
 
 ## 📑 Papers
-### [Image Processing and Deep Learning Methods for the Semantic Segmentation of Blastocyst Structures] (https://link.springer.com/chapter/10.1007/978-3-031-62799-6_22)
+### [Image Processing and Deep Learning Methods for the Semantic Segmentation of Blastocyst Structures](https://link.springer.com/chapter/10.1007/978-3-031-62799-6_22)
 María Villota, Jacobo Ayensa-Jiménez, Manuel Doblaré, Jónathan Heras 
 ### [Segmentation of the blastocyst structures using Image Processing and Machine Learning tools.] (https://www.ctresources.info/ccc/paper.html?id=9845)
 María Villota, Jacobo Ayensa-Jiménez, Manuel Doblaré, Jónathan Heras 
