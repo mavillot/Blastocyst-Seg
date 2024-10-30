@@ -51,10 +51,15 @@ In the `Notebooks` directory, you’ll find detailed Jupyter notebooks that expl
 Each notebook is designed to help you reproduce each method and understand the workflow from data preparation to final evaluation. Just navigate to `Notebooks/` and open the corresponding notebook to get started!
 
 ## Checkpoints
-- [Hrnet](https://github.com/mavillot/Blastocyst-Seg/releases/download/hrnet/hrnet.pth)
-- [Unet](https://github.com/mavillot/Blastocyst-Seg/releases/download/unet/unet.pth)
-- [Deeplab](https://github.com/mavillot/Blastocyst-Seg/releases/download/deeplab/deeplab.pth)
-- Harun - Unet: [TE](https://github.com/mavillot/Blastocyst-Seg/releases/download/harun_TE/unet_TE.zip), [ICM](https://github.com/mavillot/Blastocyst-Seg/releases/download/harun_ICM/unet_ICM.zip)
+
+| Model                | Download link                                       | 
+|------------------------|---------------------------------------------------|
+| Hrnet                | [Checkpoint](https://github.com/mavillot/Blastocyst-Seg/releases/download/hrnet/hrnet.pth)  |
+| Unet                | [Checkpoint](https://github.com/mavillot/Blastocyst-Seg/releases/download/unet/unet.pth)  | 
+| Deeplab                | [Checkpoint](https://github.com/mavillot/Blastocyst-Seg/releases/download/deeplab/deeplab.pth)  |
+| Harun - Unet - TE      | [Checkpoint](https://github.com/mavillot/Blastocyst-Seg/releases/download/harun_TE/unet_TE.zip)  |
+| Harun - Unet - ICM      | [Checkpoint](https://github.com/mavillot/Blastocyst-Seg/releases/download/harun_ICM/unet_ICM.zip)  |
+
 
 ## 📖 Cite this work
 ```bibtex
