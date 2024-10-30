@@ -79,7 +79,15 @@ In the `Notebooks` directory, you’ll find detailed Jupyter notebooks that expl
 3. **Inference**: Guidelines on how to use the model with an image for predictions.
 Each notebook is designed to help you reproduce each method and understand the workflow from data preparation to final evaluation. Just navigate to `Notebooks/` and open the corresponding notebook to get started!
 
+## 📑 Papers
+### [Image Processing and Deep Learning Methods for the Semantic Segmentation of Blastocyst Structures] (https://link.springer.com/chapter/10.1007/978-3-031-62799-6_22)
+María Villota, Jacobo Ayensa-Jiménez, Manuel Doblaré, Jónathan Heras 
+### [Segmentation of the blastocyst structures using Image Processing and Machine Learning tools.] (https://www.ctresources.info/ccc/paper.html?id=9845)
+María Villota, Jacobo Ayensa-Jiménez, Manuel Doblaré, Jónathan Heras 
+
+
 ## 📫 Contact
 Feel free to reach out if you have any questions!
 - Email: [mvillota@iisaragon.es](mvillota@iisaragon.es)
 - GitHub: [mavillot](https://github.com/mavillot)
+- Google Scholar: [María Villota](https://scholar.google.es/citations?hl=es&user=IeGlMh8AAAAJ)
