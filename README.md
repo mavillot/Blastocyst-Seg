@@ -29,7 +29,7 @@ In the repository, you can find the following files and directories:
 └────── video.mp4
 ```
 
-## 💻 Getting Started
+## 🎯 Getting Started
 To get started with this project, follow these steps::
 1. **Clone the repository:**
       ```bash
