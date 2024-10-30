@@ -2,45 +2,15 @@
 
 This project focuses on segmenting blastocyst images and extracting the exact moment of the blastocyst formation from a video using deep learning models. 🐾
 
-## 📂 Repository Contents
+## 📂 Table of Contents
 In the repository, you can find the following files and directories:
-```bash
-├──Blastocyst-Seg/
-├──────Notebooks/
-|       ├── Image_Process_ZP.ipynb
-|       ├── Image_Process_TE&ICM.ipynb
-|       ├── Harun_unet_TE.ipynb
-|       ├── Harun_unet_ICM.ipynb
-|       ├── Unet.ipynb
-|       ├── HRnet.ipynb
-|       └── Deeplab-resnet50.ipynb
-├────── experiments/
-|       ├── kfold_consistency.py
-|       ├── kfold_consistency_Harun.py
-|       ├── kfold_dataset.py
-├────── utils/
-|   
-├────── requirements_torch.txt
-├────── requirements_tensorflow.txt
-├────── segmentation.py
-├────── blasto_moment.py
-├────── img.png
-├────── prediction.png
-└────── video.mp4
-```
-## 📖 Cite this work
-```bash
-@inproceedings{villota-2024,
-title={Image Processing and Deep Learning Methods for the Semantic Segmentation of Blastocyst Structures},
-author={Villota, María and Ayensa-Jiménez, Jacobo and Doblaré, Manuel and Heras, Jónathan},
-volume={14640 LNAI}, ISBN={9783031627989},
-ISSN={1611-3349},
-DOI={10.1007/978-3-031-62799-6_22},
-booktitle={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
-publisher={Springer Science and Business Media Deutschland GmbH},
-year={2024},
-pages={213-222}}
-```
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tutorials](#tutorials)
+- [Cite This Work](#cite-this-work)
+
+
 ## 🎯 Getting Started
 To get started with this project, follow these steps::
 1. **Clone the repository:**
@@ -78,6 +48,20 @@ In the `Notebooks` directory, you’ll find detailed Jupyter notebooks that expl
 2. **Test and evaluate the Results**: Insights and metrics for analyzing model predictions, with visualizations and examples.
 3. **Inference**: Guidelines on how to use the model with an image for predictions.
 Each notebook is designed to help you reproduce each method and understand the workflow from data preparation to final evaluation. Just navigate to `Notebooks/` and open the corresponding notebook to get started!
+
+## 📖 Cite this work
+```bibtex
+@inproceedings{villota-2024,
+title={Image Processing and Deep Learning Methods for the Semantic Segmentation of Blastocyst Structures},
+author={Villota, María and Ayensa-Jiménez, Jacobo and Doblaré, Manuel and Heras, Jónathan},
+volume={14640 LNAI}, ISBN={9783031627989},
+ISSN={1611-3349},
+DOI={10.1007/978-3-031-62799-6_22},
+booktitle={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+publisher={Springer Science and Business Media Deutschland GmbH},
+year={2024},
+pages={213-222}}
+```
 
 ## 📑 Papers
 ### [Image Processing and Deep Learning Methods for the Semantic Segmentation of Blastocyst Structures] (https://link.springer.com/chapter/10.1007/978-3-031-62799-6_22)
