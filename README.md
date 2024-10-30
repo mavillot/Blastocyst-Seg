@@ -2,7 +2,7 @@
 
 This project focuses on segmenting blastocyst images and extracting the exact moment of the blastocyst formation from a video using deep learning models. 🐾
 
-## 📦 Repository Contents
+## 📂 Repository Contents
 In the repository, you can find the following files and directories:
 ```bash
 ├──Blastocyst-Seg/
@@ -60,4 +60,14 @@ Now that everything is set, we can start segmenting our blastocysts or extractin
   ```bash
    python blasto_moment.py path_video path_weights
    ```
+## 🤓 Tutorials
+In the `Notebooks` directory, you’ll find detailed Jupyter notebooks that explain and demonstrate how to:
+1. **Train the Model**: Step-by-step code and explanations for setting up and training our model using the dataset.
+2. **Test and evaluate the Results**: Insights and metrics for analyzing model predictions, with visualizations and examples.
+3. **Inference**: Guidelines on how to use the model with an image for predictions.
+Each notebook is designed to help you reproduce each method and understand the workflow from data preparation to final evaluation. Just navigate to `Notebooks/` and open the corresponding notebook to get started!
 
+## 📫 Contact
+Feel free to reach out if you have any questions!
+- Email: [mvillota@iisaragon.es]
+- GitHub: [mavillot](https://github.com/mavillot)
