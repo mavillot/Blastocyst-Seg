@@ -28,7 +28,19 @@ In the repository, you can find the following files and directories:
 ├────── prediction.png
 └────── video.mp4
 ```
-
+## 📖 Cite this work
+```bash
+@inproceedings{villota-2024,
+title={Image Processing and Deep Learning Methods for the Semantic Segmentation of Blastocyst Structures},
+author={Villota, María and Ayensa-Jiménez, Jacobo and Doblaré, Manuel and Heras, Jónathan},
+volume={14640 LNAI}, ISBN={9783031627989},
+ISSN={1611-3349},
+DOI={10.1007/978-3-031-62799-6_22},
+booktitle={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+publisher={Springer Science and Business Media Deutschland GmbH},
+year={2024},
+pages={213-222}}
+```
 ## 🎯 Getting Started
 To get started with this project, follow these steps::
 1. **Clone the repository:**
