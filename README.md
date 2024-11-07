@@ -87,3 +87,4 @@ Feel free to reach out if you have any questions!
 - Email: [mvillota@iisaragon.es](mvillota@iisaragon.es)
 - GitHub: [mavillot](https://github.com/mavillot)
 - Google Scholar: [María Villota](https://scholar.google.es/citations?hl=es&user=IeGlMh8AAAAJ)
+- LinkedIn: [María Villota Miranda](https://www.linkedin.com/in/maria-villota-miranda/)
