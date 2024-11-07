@@ -50,7 +50,7 @@ In the `Notebooks` directory, you’ll find detailed Jupyter notebooks that expl
 3. **Inference**: Guidelines on how to use the model with an image for predictions.
 Each notebook is designed to help you reproduce each method and understand the workflow from data preparation to final evaluation. Just navigate to `Notebooks/` and open the corresponding notebook to get started!
 
-## Checkpoints
+## 💾 Checkpoints
 
 | Model                | Download link                                       | 
 |------------------------|---------------------------------------------------|
