@@ -64,16 +64,17 @@ Each notebook is designed to help you reproduce each method and understand the w
 
 ## 📖 Cite this work
 ```bibtex
-@inproceedings{villota-2024,
-title={Image Processing and Deep Learning Methods for the Semantic Segmentation of Blastocyst Structures},
-author={Villota, María and Ayensa-Jiménez, Jacobo and Doblaré, Manuel and Heras, Jónathan},
-volume={14640 LNAI}, ISBN={9783031627989},
-ISSN={1611-3349},
-DOI={10.1007/978-3-031-62799-6_22},
-booktitle={Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
-publisher={Springer Science and Business Media Deutschland GmbH},
-year={2024},
-pages={213-222}}
+@article{VILLOTA-2025,
+title = {Computer vision for automatic identification of blastocyst structures and blastocyst formation time in In-Vitro Fertilization},
+journal = {Computers in Biology and Medicine},
+volume = {196},
+pages = {110633},
+year = {2025},
+issn = {0010-4825},
+doi = {https://doi.org/10.1016/j.compbiomed.2025.110633},
+url = {https://www.sciencedirect.com/science/article/pii/S0010482525009849},
+author = {María Villota and Jacobo Ayensa-Jiménez and Clara Malo and Antonio Urries and Manuel Doblaré and Jónathan Heras}
+}
 ```
 
 ## 📑 Papers
