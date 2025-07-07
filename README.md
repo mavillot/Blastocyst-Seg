@@ -78,7 +78,7 @@ author = {María Villota and Jacobo Ayensa-Jiménez and Clara Malo and Antonio U
 ```
 
 ## 📑 Papers
-### [Computer Vision for Automatic Identification of Blastocyst Structures and Blastocyst Formation Time in In-Vitro Fertilization.]([http://dx.doi.org/10.2139/ssrn.5027594](https://www.sciencedirect.com/science/article/pii/S0010482525009849))
+### [Computer Vision for Automatic Identification of Blastocyst Structures and Blastocyst Formation Time in In-Vitro Fertilization.](https://www.sciencedirect.com/science/article/pii/S0010482525009849)
 María Villota Miranda, Jacobo Ayensa-Jiménez, Clara Malo, Antonio Urries, Manuel Doblaré, Jónathan Heras 
 ### [Image Processing and Deep Learning Methods for the Semantic Segmentation of Blastocyst Structures](https://link.springer.com/chapter/10.1007/978-3-031-62799-6_22)
 María Villota, Jacobo Ayensa-Jiménez, Manuel Doblaré, Jónathan Heras 
