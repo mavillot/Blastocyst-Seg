@@ -77,7 +77,7 @@ pages={213-222}}
 ```
 
 ## 📑 Papers
-### [Computer Vision for Automatic Identification of Blastocyst Structures and Blastocyst Formation Time in In-Vitro Fertilization.](http://dx.doi.org/10.2139/ssrn.5027594)
+### [Computer Vision for Automatic Identification of Blastocyst Structures and Blastocyst Formation Time in In-Vitro Fertilization.]([http://dx.doi.org/10.2139/ssrn.5027594](https://www.sciencedirect.com/science/article/pii/S0010482525009849))
 María Villota Miranda, Jacobo Ayensa-Jiménez, Clara Malo, Antonio Urries, Manuel Doblaré, Jónathan Heras 
 ### [Image Processing and Deep Learning Methods for the Semantic Segmentation of Blastocyst Structures](https://link.springer.com/chapter/10.1007/978-3-031-62799-6_22)
 María Villota, Jacobo Ayensa-Jiménez, Manuel Doblaré, Jónathan Heras 
@@ -87,7 +87,7 @@ María Villota, Jacobo Ayensa-Jiménez, Manuel Doblaré, Jónathan Heras
 
 ## 📫 Contact
 Feel free to reach out if you have any questions!
-- Email: [mvillota@iisaragon.es](mvillota@unizar.es)
+- Email: [mvillota@unizar.es](mvillota@unizar.es)
 - GitHub: [mavillot](https://github.com/mavillot)
 - Google Scholar: [María Villota](https://scholar.google.es/citations?hl=es&user=IeGlMh8AAAAJ)
 - LinkedIn: [María Villota Miranda](https://www.linkedin.com/in/maria-villota-miranda/)
