@@ -14,7 +14,7 @@ In the repository, you can find the following files and directories:
 - [Contact](#-contact)
 
 ## 🎯 Getting Started
-To get started with this project, follow these steps::
+To get started with this project, follow these steps:
 1. **Clone the repository:**
       ```bash
    git clone https://github.com/mavillot/Blastocyst-Seg.git
